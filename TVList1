@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-2
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv2hd.m3u8
+#EXTINF:-1 ,CCTV-3
+http://hdtv.lzu6.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV-4
+http://hdtv.lzu6.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV-5
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv5hd.m3u8
+#EXTINF:-1 ,CCTV-6
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-7
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv7hd.m3u8
+#EXTINF:-1 ,CCTV-8
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv8.m3u8
+#EXTINF:-1 ,CCTV-9
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv9hd.m3u8
+#EXTINF:-1 ,CCTV-10
+http://hdtv.lzu6.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-11
+http://hdtv.lzu6.edu.cn/hls/hls186a11.m3u8
+#EXTINF:-1 ,CCTV-12
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv12hd.m3u8
+#EXTINF:-1 ,CCTV-13
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
+#EXTINF:-1 ,CCTV-14
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv14hd.m3u8
+#EXTINF:-1 ,CCTV-15
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv15hd.m3u8
+#EXTINF:-1 ,CGTN
+http://hdtv.lzu6.edu.cn/hls/hls67a44.m3u8
+#EXTINF:-1 ,CCTV-17
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv17.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://hdtv.lzu6.edu.cn/hls/hls184a515.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
+#EXTINF:-1 ,CCTV风云足球
+http://hdtv.lzu6.edu.cn/hls/hls184a510.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://hdtv.lzu6.edu.cn/hls/hls184a573.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://hdtv.lzu6.edu.cn/hls/hls184a522.m3u8
+#EXTINF:-1 ,CCTV电视指南
+http://hdtv.lzu6.edu.cn/hls/hls186a88.m3u8
+#EXTINF:-1 ,CCTV央视文化精品
+http://hdtv.lzu6.edu.cn/hls/hls184a520.m3u8
+#EXTINF:-1 ,CCTV台球
+http://hdtv.lzu6.edu.cn/hls/hls184a574.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://hdtv.lzu6.edu.cn/hls/hls260.m3u8
+#EXTINF:-1 ,湖南卫视
+http://hdtv.lzu6.edu.cn/hls/jlu_hnhd.m3u8
+#EXTINF:-1 ,浙江卫视
+http://hdtv.lzu6.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 ,东方卫视
+http://hdtv.lzu6.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,江苏卫视
+http://hdtv.lzu6.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,北京卫视
+http://hdtv.lzu6.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 ,安徽卫视
+http://hdtv.lzu6.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 ,深圳卫视
+http://hdtv.lzu6.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://hdtv.lzu6.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 ,吉林卫视
+http://hdtv.lzu6.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://hdtv.lzu6.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 ,天津卫视
+http://hdtv.lzu6.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 ,重庆卫视
+http://hdtv.lzu6.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 ,湖北卫视
+http://hdtv.lzu6.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,山东卫视
+http://hdtv.lzu6.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,广东卫视
+http://hdtv.lzu6.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,四川卫视
+http://hdtv.lzu6.edu.cn/hls/schd.m3u8
+#EXTINF:-1 ,河南卫视
+http://hdtv.lzu6.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 ,东南卫视
+http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 ,海南卫视
+http://hdtv.lzu6.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 ,河北卫视
+http://hdtv.lzu6.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 ,江西卫视
+http://hdtv.lzu6.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 ,广西卫视
+http://hdtv.lzu6.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 ,贵州卫视
+http://hdtv.lzu6.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1 ,沈阳新闻综合
+http://hdtv.lzu6.edu.cn/hls/hls185a542.m3u8
+#EXTINF:-1 ,辽宁公共
+http://hdtv.lzu6.edu.cn/hls/hls185a541.m3u8
+#EXTINF:-1 ,辽宁经济
+http://hdtv.lzu6.edu.cn/hls/hls185a540.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://hdtv.lzu6.edu.cn/hls/hls254.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://hdtv.lzu6.edu.cn/hls/hls255.m3u8
+#EXTINF:-1 ,BTV文艺
+http://hdtv.lzu6.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 ,BTV科教
+http://hdtv.lzu6.edu.cn/hls/btv3hd.m3u8
+#EXTINF:-1 ,BTV影视
+http://hdtv.lzu6.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 ,BTV财经
+http://hdtv.lzu6.edu.cn/hls/btv5hd.m3u8
+#EXTINF:-1 ,BTV生活
+http://hdtv.lzu6.edu.cn/hls/btv7hd.m3u8
+#EXTINF:-1 ,BTV青年
+http://hdtv.lzu6.edu.cn/hls/btv8hd.m3u8
+#EXTINF:-1 ,BTV新闻
+http://hdtv.lzu6.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 ,BTV冬奥纪实
+http://hdtv.lzu6.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 ,金鹰纪实
+http://hdtv.lzu6.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 ,上视纪实
+http://hdtv.lzu6.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 ,全纪实
+http://hdtv.lzu6.edu.cn/hls/hls184a639.m3u8
+#EXTINF:-1 ,足球频道
+http://hdtv.lzu6.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1 ,家庭剧场HD
+http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 ,大众影视HD
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 ,家庭影院HD
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 ,爱映画
+http://hdtv.lzu6.edu.cn/hls/hls78a46.m3u8
+#EXTINF:-1 ,卡通剧场HD
+http://hdtv.lzu6.edu.cn/hls/hls167.m3u8
+#EXTINF:-1 ,动漫秀场
+http://hdtv.lzu6.edu.cn/hls/hls184a636.m3u8
+#EXTINF:-1 ,游戏风云
+http://hdtv.lzu6.edu.cn/hls/hls184a637.m3u8
+#EXTINF:-1 ,晴天动画馆
+http://hdtv.lzu6.edu.cn/hls/hls78a47.m3u8
+#EXTINF:-1 ,时光剧场
+http://hdtv.lzu6.edu.cn/hls/hls78a48.m3u8
+#EXTINF:-1 ,CETV-1
+http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://hdtv.lzu6.edu.cn/hls/hls186a69.m3u8
+#EXTINF:-1 ,茶频道
+http://hdtv.lzu6.edu.cn/hls/hls186a70.m3u8
+#EXTINF:-1 ,Max极速汽车
+http://hdtv.lzu6.edu.cn/hls/hls184a94.m3u8
+#EXTINF:-1 ,金色频道
+http://hdtv.lzu6.edu.cn/hls/hls184a90.m3u8
+#EXTINF:-1 ,都市剧场
+http://hdtv.lzu6.edu.cn/hls/hls185a95.m3u8
+#EXTINF:-1 ,生活时尚
+http://hdtv.lzu6.edu.cn/hls/hls184a91.m3u8
+#EXTINF:-1 ,法治天地
+http://hdtv.lzu6.edu.cn/hls/hls184a89.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://hdtv.lzu6.edu.cn/hls/hls185a97.m3u8
+#EXTINF:-1 ,辽宁交通广播
+http://hdtv.lzu6.edu.cn/hls/hls185a641.m3u8
+#EXTINF:-1 ,辽宁经典音乐广播
+http://hdtv.lzu6.edu.cn/hls/hls185a642.m3u8
