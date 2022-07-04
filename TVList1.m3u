@@ -59,6 +59,8 @@ http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓电影
 http://39.135.32.236:6610/PLTV/77777777/224/3221225740/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="黑莓",黑莓动画
+http://39.135.32.236:6610/PLTV/77777777/224/3221225710/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影星",刘德华电影
 http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影星",周润发电影
@@ -73,16 +75,34 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225733/index.m3u8?
 http://39.135.32.236:6610/PLTV/77777777/224/3221225703/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV超级电影
 http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV精品体育
+http://39.135.32.236:6610/PLTV/77777777/224/3221225724/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV金牌综艺
 http://39.135.32.236:6610/PLTV/77777777/224/3221225755/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV炫舞未来
+http://39.135.32.236:6610/PLTV/77777777/224/3221225728/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV武搏世界
+http://39.135.32.236:6610/PLTV/77777777/224/3221225758/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV海外剧场
 http://39.135.32.236:6610/PLTV/77777777/224/3221225763/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆
+http://39.135.32.236:6610/PLTV/77777777/224/3221225709/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV农业致富
+http://39.135.32.236:6610/PLTV/77777777/224/3221225687/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV古装剧场
 http://39.135.32.236:6610/PLTV/77777777/224/3221225706/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV家庭剧场
 http://39.135.32.236:6610/PLTV/77777777/224/3221225743/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV怡伴健康
+http://39.135.32.236:6610/PLTV/77777777/224/3221225684/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV惊悚悬疑
 http://39.135.32.236:6610/PLTV/77777777/224/3221225746/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV中国功夫
+http://39.135.32.236:6610/PLTV/77777777/224/3221225690/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军事评论
+http://39.135.32.236:6610/PLTV/77777777/224/3221225749/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV",NewTV军旅剧场
+http://39.135.32.236:6610/PLTV/77777777/224/3221225727/index.m3u8?
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://39.135.32.236:6610/PLTV/77777777/224/3221225672/index.m3u8?
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
