@@ -35,16 +35,16 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226230/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225909/2/index.m3u8
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://n.ysyz.top:99/buyaolian/sdql.png" group-title="山东",山东齐鲁
 http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title="山东",山东体育
-http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://n.ysyz.top:99/buyaolian/sdzy.png" group-title="山东",山东综艺
 http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/sdxw.png" group-title="山东",山东新闻
-http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://n.ysyz.top:99/buyaolian/sdsh.png" group-title="山东",山东生活
 http://119.164.216.162:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/sdxw.png" group-title="山东",山东新闻
+http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="http://n.ysyz.top:99/buyaolian/sdwl.png" group-title="山东",山东文旅
 http://119.164.216.162:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://n.ysyz.top:99/buyaolian/sdty.png" group-title="山东",山东体育
+http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/sdse.png" group-title="山东",山东少儿
 http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="4K",8K「IPV6」
