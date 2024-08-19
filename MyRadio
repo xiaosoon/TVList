@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://live.cooltv.top/epg.xml.gz"
-http://live.cooltv.top/tv/yueting.php?id=2519
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2020-07/a996ded78091caedOSS1594190067.png" group-title="网络广播",粤听·移动应急电台
 http://live.cooltv.top/tv/yueting.php?id=2518
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2022-09/9dfbc98283519043OSS1663831185.png" group-title="网络广播",粤听·小满音乐台
