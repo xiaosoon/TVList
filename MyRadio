@@ -687,7 +687,7 @@ http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/generalradio/房山电台.png" group-title="综合广播",房山电台
 http://live.funhillrm.com/3/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.abc-lounge.com/radio/wp-content/uploads/2024/08/v082024-02.jpg" group-title="境外广播",ABC Lounge Radio-Lounge and Jazz Music
-https://str1.openstream.co/589
+https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/1.png" group-title="境外广播",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/1x.png" group-title="境外广播",BBC Radio 1Xtra
