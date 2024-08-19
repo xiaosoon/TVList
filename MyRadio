@@ -62,9 +62,8 @@ https://n03.rcs.revma.com/3keq8g9711uvv/hls.m3u8
 https://n09.rcs.revma.com/hg8dtm9711uvv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-ost/080224/square_md.png" group-title="马来西亚-MELODY",MELODY - 影视歌曲专属区
 https://n02.rcs.revma.com/8axr3x9711uvv/hls.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.abc-lounge.com/radio/wp-content/uploads/2024/08/v082024-02.jpg" group-title="马来西亚-MELODY",ABC Lounge Radio-Jazz,Blues,Relax
+https://str1.openstream.co/589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="网络广播",Big B Radio - 韩语流行
