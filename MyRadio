@@ -51,16 +51,18 @@ http://funradio.cn:8000/funradio
 http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiayy.png" group-title="网络广播",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚-MELODY",MELODY - 强打好歌，强大资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚",MELODY-强打好歌，强大资讯
 https://n05.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-love/080224/square_md.png" group-title="马来西亚-MELODY",MELODY - 爱的专属区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-love/080224/square_md.png" group-title="马来西亚",MELODY-爱的专属区
 https://n01.rcs.revma.com/7xatqr9711uvv/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/media/syokchinese/assets/digitalradio-images/melody-70s_80_logo750x750.png" group-title="马来西亚-MELODY",MELODY - 经典70 & 80专属区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/media/syokchinese/assets/digitalradio-images/melody-70s_80_logo750x750.png" group-title="马来西亚",MELODY-经典70&80专属区
 https://n03.rcs.revma.com/3keq8g9711uvv/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-90/080224/square_md.png" group-title="马来西亚-MELODY",MELODY - 经典90专属区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-90/080224/square_md.png" group-title="马来西亚",MELODY-经典90专属区
 https://n09.rcs.revma.com/hg8dtm9711uvv/hls.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-ost/080224/square_md.png" group-title="马来西亚-MELODY",MELODY - 影视歌曲专属区
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-ost/080224/square_md.png" group-title="马来西亚",MELODY-影视歌曲专属区
 https://n02.rcs.revma.com/8axr3x9711uvv/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/media/syokchinese/assets/digitalradio-images/750-x750-syokcantonesekaraoke.png" group-title="马来西亚",SYOK-SYOK粤语K歌
+https://n07.rcs.revma.com/dd3nf88711uvv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s138074/images/logog.png?t=158317" group-title="网络广播",Big B Radio - 中文流行
 http://cpop.bigbradio.net/s
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s135096/images/logog.png?t=158317" group-title="网络广播",Big B Radio - 韩语流行
