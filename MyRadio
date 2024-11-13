@@ -41,7 +41,7 @@ https://tunein.streamguys1.com/progressivevoices
 https://tunein.streamguys1.com/pandashowradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahot.png" group-title="网络广播",AsiaFM 亚洲热歌台
 http://hot.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiamusic.png" group-title="网络广播",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/storages/ec23-audiofreehighqps/35/ED/GMCoOSYGrt6hAAD2OwGEA2ho.jpg" group-title="网络广播",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiagold.png" group-title="网络广播",AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
@@ -49,7 +49,7 @@ http://goldfm.cn:8000/goldfm
 http://funradio.cn:8000/funradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahd.png" group-title="网络广播",AsiaFM HD音乐台
 http://asiafm.hk:8000/asiahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiayy.png" group-title="网络广播",AsiaFM 亚洲粤语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/storages/20ef-audiofreehighqps/00/CA/GMCoOR8HJFh9AAMCbwGzjNlB.jpg" group-title="网络广播",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚",MELODY-强打好歌，强大资讯
 https://n05.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
