@@ -54,7 +54,7 @@ http://yyt.asiafm.net:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
 https://loveradio.streamingmedia.it/play.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050210460891.jpg" group-title="中央",CRI HitFM88.7劲曲调频
-https://loveradio.streamingmedia.it/play.mp3
+https://sk.cri.cn/887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚",MELODY-强打好歌，强大资讯
 https://n05.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-love/080224/square_md.png" group-title="马来西亚",MELODY-爱的专属区
@@ -1128,7 +1128,7 @@ http://live.zohi.tv/audio/s10001-FM893/index.m3u8
 http://live.cooltv.top/tv/cdgb.php?id=946
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/myyygb.png" group-title="音乐广播",绵阳科技生活广播
 http://live.sctvcloud.com/live/myradioyy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/asiacd.png" group-title="音乐广播",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/photo/raw/main/asiacd.png" group-title="音乐广播",AsiaFM 965
 http://asiafm.vip:8000/fm965
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/hkyy.png" group-title="音乐广播",WHIZ Radio 海口音乐广播
 http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
