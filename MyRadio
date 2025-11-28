@@ -1102,7 +1102,7 @@ http://live.cooltv.top/tv/ytradio.php?id=1173
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/kfyy.png" group-title="音乐广播",开封音乐广播
 http://live.dxhmt.cn:9081/gb/10200-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050316303735.png" group-title="音乐广播",广东音乐之声
-http://live.cooltv.top/tv/ytradio.php?id=489
+http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/971.png" group-title="音乐广播",深圳飞扬971
 rtmp://satellitepull.cnr.cn/live/wxszfy971
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/942.png" group-title="音乐广播",深圳生活942
