@@ -39,18 +39,22 @@ http://tunein.streamguys1.com/StarTalkRadio
 https://tunein.streamguys1.com/progressivevoices
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="网络广播",Panda Show Radio
 https://tunein.streamguys1.com/pandashowradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahot.png" group-title="网络广播",AsiaFM 亚洲热歌台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050713003681.jpg" group-title="网络广播",AsiaFM 亚洲热歌台
 http://hot.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/storages/ec23-audiofreehighqps/35/ED/GMCoOSYGrt6hAAD2OwGEA2ho.jpg" group-title="网络广播",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711235865.jpg" group-title="网络广播",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiagold.png" group-title="网络广播",AsiaFM 亚洲经典台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712503750.jpg" group-title="网络广播",AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiasky.png" group-title="网络广播",AsiaFM 亚洲天空台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712545631.jpg" group-title="网络广播",AsiaFM 亚洲天空台
 http://funradio.cn:8000/funradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/asiahd.png" group-title="网络广播",AsiaFM HD音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711183851.jpg" group-title="网络广播",AsiaFM HD音乐台
 http://asiafm.hk:8000/asiahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/storages/20ef-audiofreehighqps/00/CA/GMCoOR8HJFh9AAMCbwGzjNlB.jpg" group-title="网络广播",AsiaFM 亚洲粤语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050712445665.jpg" group-title="网络广播",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
+https://loveradio.streamingmedia.it/play.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050210460891.jpg" group-title="中央",CRI HitFM88.7劲曲调频
+https://loveradio.streamingmedia.it/play.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚",MELODY-强打好歌，强大资讯
 https://n05.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-love/080224/square_md.png" group-title="马来西亚",MELODY-爱的专属区
@@ -1097,7 +1101,7 @@ http://live.cooltv.top/tv/ytradio.php?id=395
 http://live.cooltv.top/tv/ytradio.php?id=1173
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/kfyy.png" group-title="音乐广播",开封音乐广播
 http://live.dxhmt.cn:9081/gb/10200-4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/gdyyzs.png" group-title="音乐广播",广东音乐之声
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050316303735.png" group-title="音乐广播",广东音乐之声
 http://live.cooltv.top/tv/ytradio.php?id=489
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/musicradio/971.png" group-title="音乐广播",深圳飞扬971
 rtmp://satellitepull.cnr.cn/live/wxszfy971
