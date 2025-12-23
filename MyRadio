@@ -53,8 +53,6 @@ http://asiafm.hk:8000/asiahd
 http://yyt.asiafm.net:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
 https://loveradio.streamingmedia.it/play.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050210460891.jpg" group-title="中央",CRI HitFM88.7劲曲调频
-https://sk.cri.cn/887.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚",MELODY-强打好歌，强大资讯
 https://n05.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-love/080224/square_md.png" group-title="马来西亚",MELODY-爱的专属区
@@ -982,8 +980,6 @@ http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlis
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/cnrgoldenradio.png" group-title="音乐广播",经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="音乐广播",HITFM劲曲调频
-http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/1017.png" group-title="音乐广播",动感101
 http://live.cooltv.top/tv/news1296.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/loveradio.png" group-title="音乐广播",Love Radio
