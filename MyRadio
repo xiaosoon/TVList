@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050712445665.jpg" group-title="网络广播",AsiaFM 亚洲粤语台
+http://yyt.asiafm.net:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712503750.jpg" group-title="网络广播",AsiaFM 亚洲经典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711183851.jpg" group-title="网络广播",AsiaFM HD音乐台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050713003681.jpg" group-title="网络广播",AsiaFM 亚洲热歌台
+http://hot.asiafm.net:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711235865.jpg" group-title="网络广播",AsiaFM 亚洲音乐台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712545631.jpg" group-title="网络广播",AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/group73/M07/27/DF/wKgO216MK7CR3fxlAABbJoUWMWM171.png" group-title="网络广播",经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
+https://loveradio.streamingmedia.it/play.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2020-07/a996ded78091caedOSS1594190067.png" group-title="网络广播",粤听·移动应急电台
 http://live.cooltv.top/tv/yueting.php?id=2518
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p2-yueting.yuetingapp.com/upload/new-mc/2022-09/9dfbc98283519043OSS1663831185.png" group-title="网络广播",粤听·小满音乐台
@@ -39,20 +57,6 @@ http://tunein.streamguys1.com/StarTalkRadio
 https://tunein.streamguys1.com/progressivevoices
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s96692d.png" group-title="网络广播",Panda Show Radio
 https://tunein.streamguys1.com/pandashowradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050713003681.jpg" group-title="网络广播",AsiaFM 亚洲热歌台
-http://hot.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711235865.jpg" group-title="网络广播",AsiaFM 亚洲音乐台
-http://asiafm.hk:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712503750.jpg" group-title="网络广播",AsiaFM 亚洲经典台
-http://goldfm.cn:8000/goldfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712545631.jpg" group-title="网络广播",AsiaFM 亚洲天空台
-http://funradio.cn:8000/funradio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711183851.jpg" group-title="网络广播",AsiaFM HD音乐台
-http://asiafm.hk:8000/asiahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050712445665.jpg" group-title="网络广播",AsiaFM 亚洲粤语台
-http://yyt.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
-https://loveradio.streamingmedia.it/play.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="马来西亚",MELODY-强打好歌，强大资讯
 https://n05.rcs.revma.com/hc3unrtbv4uvv/hls.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/melody-love/080224/square_md.png" group-title="马来西亚",MELODY-爱的专属区
@@ -103,10 +107,6 @@ http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/f7cb3fc8f0bd8f94cb96fb35e12fbca3.png" group-title="网络广播",心灵音乐馆
 http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
-http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/group73/M07/27/DF/wKgO216MK7CR3fxlAABbJoUWMWM171.png" group-title="网络广播",经典FM
-http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553160555011.jpg" group-title="网络广播",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/radioer/transparentlogo/raw/master/internetradio/快乐卷卷猫.png" group-title="网络广播",卷卷猫电台
