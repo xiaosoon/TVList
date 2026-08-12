@@ -1,15 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.dtstatic.com/uploads/blog/202608/12/z2S07gDzUxv1x1n.thumb.1000_0.gif" group-title="网络广播",AsiaFM 亚洲粤语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/z2S07gDzUxv1x1n.gif" group-title="网络广播",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/DWSqy08zid7mNvj.gif" group-title="网络广播",AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.dtstatic.com/uploads/blog/202608/12/ZOSp31Yjcm78Yjq.thumb.1000_0.gif" group-title="网络广播",AsiaFM HD音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/ZOSp31Yjcm78Yjq.gif" group-title="网络广播",AsiaFM HD音乐台
 http://asiafm.hk:8000/asiahd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/73SvY3OzUeGld4y.gif" group-title="网络广播",AsiaFM 亚洲热歌台
 http://hot.asiafm.net:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023050711235865.jpg" group-title="网络广播",AsiaFM 亚洲音乐台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/8gS0Jb4mUgOqpX9.gif" group-title="网络广播",AsiaFM 亚洲音乐台
 http://asiafm.hk:8000/asiafm
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712545631.jpg" group-title="网络广播",AsiaFM 亚洲天空台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/1mSPV50ztQxpWY8.gif" group-title="网络广播",AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/group73/M07/27/DF/wKgO216MK7CR3fxlAABbJoUWMWM171.png" group-title="网络广播",经典FM
