@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.duitang.com/uploads/blog/202608/12/z2S07gDzUxv1x1n.gif" group-title="网络广播",AsiaFM 亚洲粤语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c-ssl.dtstatic.com/uploads/blog/202608/12/z2S07gDzUxv1x1n.thumb.1000_0.gif" group-title="网络广播",AsiaFM 亚洲粤语台
 http://yyt.asiafm.net:8000/asiafm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/05/2023050712503750.jpg" group-title="网络广播",AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
