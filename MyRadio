@@ -15,6 +15,8 @@ http://funradio.cn:8000/funradio
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/group73/M07/27/DF/wKgO216MK7CR3fxlAABbJoUWMWM171.png" group-title="网络广播",经典FM
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.qtfm.cn/2018/04/18/partner_fed9bd1f4da1d2cab3ccd7c709717c51.png" group-title="网络广播",天津音乐广播
+http://radio-tx.wisetv.com.cn/tjradio/YINYUE.m3u8?txSecret=4c12afc109f5a8ca60b3f75393ed808e&txTime=6acc5c16&GUID=a1af6a19a4c221d52c84336500736850
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
 https://loveradio.streamingmedia.it/play.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553159793824.jpg" group-title="网络广播",动感音悦台
