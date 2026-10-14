@@ -15,7 +15,7 @@ http://funradio.cn:8000/funradio
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagev2.xmcdn.com/group73/M07/27/DF/wKgO216MK7CR3fxlAABbJoUWMWM171.png" group-title="网络广播",经典FM
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-#EXTINF:-1 tvg-id="天津音乐广播" tvg-logo="https://cooltv.top/logo/logomt71w0op.webp?v=88ab4186" group-title="天津" radio-country-code="CN" radio-country="中国" radio-region="天津" radio-language="zh-CN" radio-tags="音乐,天津,中国" radio-relay="cooltv",天津音乐广播
+#EXTINF:-1 tvg-id="天津音乐广播" tvg-logo="https://cooltv.top/logo/logomt71w0op.webp?v=88ab4186" group-title="网络广播" radio-country-code="CN" radio-country="中国" radio-region="天津" radio-language="zh-CN" radio-tags="音乐,天津,中国" radio-relay="cooltv",天津音乐广播
 https://cooltv.top/api/stream/s/s_f4d5c619/0/stream.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://radio5.cn/file/2023/04/2023080615083590.png" group-title="网络广播",Love Radio
 https://loveradio.streamingmedia.it/play.mp3
